@@ -1,7 +1,0 @@
-file = open('/Users/fooorsss/PycharmProjects/PythonProject/Акимов Алексей Сергеевич_УБ-51_vvod.txt', "r")
-file1 = open('/Users/fooorsss/PycharmProjects/PythonProject/Акимов Алексей Сергеевич_УБ-51_vivod.txt', "w")
-a = file.read()
-file1.write(a)
-print(a)
-file.close()
-file1.close()
